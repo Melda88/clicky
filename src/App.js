@@ -44,7 +44,7 @@ class App extends Component {
     return (
       <Wrapper>
         <Title
-          title= "Choose Wisely"
+          title= "The Click Game"
           currentScore={this.state.currentScore}
           topScore={this.state.topScore}/>
         {
